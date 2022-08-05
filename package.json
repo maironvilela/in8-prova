@@ -1,0 +1,14 @@
+{
+  "name": "in8-prova",
+  "version": "1.0.0",
+  "repository": "git@github.com:maironvilela/in8-prova.git",
+  "author": "Mairon Vilela <maironvilela@hotmail.com>",
+  "license": "MIT", 
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "ts-node-dev": "^2.0.0"
+  }
+}
